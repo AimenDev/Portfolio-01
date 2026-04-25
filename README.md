@@ -1,15 +1,8 @@
 # Build a Modern Portfolio Website with React & TailwindCSS
 
 
+<img width="1904" height="911" alt="port" src="https://github.com/user-attachments/assets/eff97a7d-1bfb-4052-b4e6-64fb78996e6d" />
 
-## 📋 Table of Contents
-
-1. [Introduction](#-introduction)
-2. [Tech Stack](#-tech-stack)
-3. [Features](#-features)
-4. [Quick Start](#-quick-start)
-5. [Screenshots](#-screenshots)
-6. [Deployment](#-deployment)
 
 ---
 
